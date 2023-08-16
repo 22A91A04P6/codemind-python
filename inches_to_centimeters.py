@@ -1,3 +1,3 @@
 a=int(input())
-b=2.54*a
-print("%.2f" %b)
+h=a*2.54
+print(f'{h:.2f}')
